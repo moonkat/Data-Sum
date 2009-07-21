@@ -1,0 +1,8 @@
+Button functionality needs to be added. Instead of the sum function initiated by input field blur, need the option for a button or link to initiate the sum function.
+
+Possible tags (to be placed on the button or link itself):
+
+datasumtarget = "id of where you want the summed data to appear"
+datasum = "ids of elements containing the data to be summed"
+
+Otherwise, for the live function, place the datasum tag on the element designated to contain the summed data.
